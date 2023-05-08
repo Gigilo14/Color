@@ -1,3 +1,2 @@
-hello world hi
-hello gela hacenoglu
-gela
+hello i'm
+Freelancer and Students
